@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D9D11C9-D3A8-4D70-8B66-8203C1F20717</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MatchedUp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2FEFD4F-6E20-41EB-B2AF-FE84F6AF0027</key>
+		<string>https://github.com/piersrr/MatchedUp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MatchedUp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2FEFD4F-6E20-41EB-B2AF-FE84F6AF0027</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/piersrr/MatchedUp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2FEFD4F-6E20-41EB-B2AF-FE84F6AF0027</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2FEFD4F-6E20-41EB-B2AF-FE84F6AF0027</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MatchedUp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
